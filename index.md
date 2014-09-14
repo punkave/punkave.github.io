@@ -11,8 +11,8 @@ Open source software is part of P'unk Avenue's DNA. Have a look at our active pr
 
 The Apostrophe Content Management System is a full-fledged CMS built in node.js. It is in-context, allowing content editors to edit their site as they view it. For documentation head to the [Apostrophe Docs](http://apostrophenow.org) and for a live demo head to the [Apostrophe Demo](http://demo2.apostrophenow.com).
 
-- [Apostrophe Core](https://github.com/punkave/apostrophe)
-- [apostrophe-sandbox](https://github.com/punkave/apostrophe-sandbox)
+- [Apostrophe Core](https://github.com/punkave/apostrophe): the core module
+- [apostrophe-sandbox](https://github.com/punkave/apostrophe-sandbox): a project starting point and demonstration of the CMS
 
 Core Modules:
 - [apostrophe-site](https://github.com/punkave/apostrophe-site)
