@@ -11,40 +11,42 @@ Open source software is part of P'unk Avenue's DNA. Have a look at our active pr
 
 The Apostrophe Content Management System is a full-fledged CMS built in node.js. It is in-context, allowing content editors to edit their site as they view it. For documentation head to the [Apostrophe Docs](http://apostrophenow.org) and for a live demo head to the [Apostrophe Demo](http://demo2.apostrophenow.com).
 
-- [Apostrophe Core](https://github.com/punkave/apostrophe) - the core module
-- [apostrophe-sandbox](https://github.com/punkave/apostrophe-sandbox) - a project starting point and demonstration of the CMS
+Starting Points:
+- [apostrophe-sandbox](https://github.com/punkave/apostrophe-sandbox) - a project starting point and demonstration of the CMS. Make sure you [check out the Getting Started tutorial](http://apostrophenow.org/tutorials/getting-started/install-sandbox.html).
 
-Core Modules:
+Core Modules (part of every project):
+- [apostrophe](https://github.com/punkave/apostrophe)
 - [apostrophe-site](https://github.com/punkave/apostrophe-site)
 - [apostrophe-pages](https://github.com/punkave/apostrophe-pages)
 - [apostrophe-schemas](https://github.com/punkave/apostrophe-schemas)
-- [apostrophe-fancy-page](https://github.com/punkave/apostrophe-fancy-page)
 - [apostrophe-editor-2](https://github.com/punkave/apostrophe-editor-2)
 - [apostrophe-ui-2](https://github.com/punkave/apostrophe-ui-2)
-- [apostrophe-blocks](https://github.com/punkave/apostrophe-blocks)
 - [apostrophe-snippets](https://github.com/punkave/apostrophe-snippets)
-- [apostrophe-schema-widgets](https://github.com/punkave/apostrophe-schema-widgets)
 - [apostrophe-people](https://github.com/punkave/apostrophe-people)
 - [apostrophe-groups](https://github.com/punkave/apostrophe-groups)
-- [apostrophe-search](https://github.com/punkave/apostrophe-search)
-- [apostrophe-redirects](https://github.com/punkave/apostrophe-redirects)
-- [apostrophe-workflow](https://github.com/punkave/apostrophe-workflow)
-- [apostrophe-moderator](https://github.com/punkave/apostrophe-moderator)
-- [apostrophe-websockets](https://github.com/punkave/apostrophe-websockets)
 
-Content Modules:
+Optional Content Types:
 - [apostrophe-blog](https://github.com/punkave/apostrophe-blog)
 - [apostrophe-blog-2](https://github.com/punkave/apostrophe-blog-2)
 - [apostrophe-events](https://github.com/punkave/apostrophe-events)
 - [apostrophe-map](https://github.com/punkave/apostrophe-map)
 - [apostrophe-raphael](https://github.com/punkave/apostrophe-raphael)
 - [apostrophe-button](https://github.com/punkave/apostrophe-button)
-- [apostrophe-preferences](https://github.com/punkave/apostrophe-preferences)
-- [apostrophe-rss](https://github.com/punkave/apostrophe-rss)
 
-Content Integrations:
+Feature Modules:
+- [apostrophe-preferences](https://github.com/punkave/apostrophe-preferences)
+- [apostrophe-redirects](https://github.com/punkave/apostrophe-redirects)
+- [apostrophe-workflow](https://github.com/punkave/apostrophe-workflow)
+- [apostrophe-moderator](https://github.com/punkave/apostrophe-moderator)
+- [apostrophe-websockets](https://github.com/punkave/apostrophe-websockets)
+- [apostrophe-fancy-page](https://github.com/punkave/apostrophe-fancy-page)
+- [apostrophe-blocks](https://github.com/punkave/apostrophe-blocks)
+- [apostrophe-schema-widgets](https://github.com/punkave/apostrophe-schema-widgets)
+
+Service Integrations:
 - [apostrophe-facebook](https://github.com/punkave/apostrophe-facebook)
 - [apostrophe-instagram](https://github.com/punkave/apostrophe-instagram)
+- [apostrophe-rss](https://github.com/punkave/apostrophe-rss)
 - [apostrophe-twitter](https://github.com/punkave/apostrophe-twitter)
 - [apostrophe-flickr](https://github.com/punkave/apostrophe-flickr)
 - [apostrophe-tumblr](https://github.com/punkave/apostrophe-tumblr)
@@ -92,7 +94,6 @@ Our suite of jQuery plugins has evolved out of necessity as we've developed Apos
 - [dox-foundation](https://github.com/punkave/dox-foundation)
 - [grunt-dox](https://github.com/punkave/grunt-dox)
 - [haz](https://github.com/punkave/haz)
-- [sanity-benchmark](https://github.com/punkave/sanity-benchmark)
 - [imagecrunch](https://github.com/punkave/imagecrunch)
 - [random-words](https://github.com/punkave/random-words)
 
@@ -101,3 +102,4 @@ Our suite of jQuery plugins has evolved out of necessity as we've developed Apos
 
 - [stagecoach](https://github.com/punkave/stagecoach)
 - [standby](https://github.com/punkave/standby)
+- [sanity-benchmark](https://github.com/punkave/sanity-benchmark)
